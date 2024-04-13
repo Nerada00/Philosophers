@@ -10,7 +10,7 @@ Program allowing you to implement a solution from the [Philosophers' Dinner](htt
 
 ```bash
 git clone https://github.com/Nerada00/Philosophers.git
-cd philo
+cd Philosophers
 make
 ```
 ## Authors
