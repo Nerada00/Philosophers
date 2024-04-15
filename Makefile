@@ -1,13 +1,13 @@
-SRCS = 	code.c\
-		utils.c\
-		parsing.c\
-		init.c\
-		protection.c\
-		dinner.c\
-		monitoring.c\
-		display.c\
-		synchro_utils.c\
-		getters_setters.c\
+SRCS = 	src/code.c\
+		src/utils.c\
+		src/parsing.c\
+		src/init.c\
+		src/protection.c\
+		src/dinner.c\
+		src/monitoring.c\
+		src/display.c\
+		src/synchro_utils.c\
+		src/getters_setters.c\
 
 OBJS = $(SRCS:.c=.o)
 
